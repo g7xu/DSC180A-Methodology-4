@@ -6,10 +6,10 @@ title: DSC180A — Methodology 4
 # Methodology Assignment 4 — Task 2
 
 **Name & UCSD Email**  
-Your Name — yourname@ucsd.edu
+Guoxuan Xu — g7xu@ucsd.edu
 
 **Section & Mentor**  
-Section ___ — Mentor ___
+Section 20B — Kyle Shannon 
 
 ## Brainstorm Prompts
 
